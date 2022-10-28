@@ -48,7 +48,3 @@ Processor: Minimum-Intel Core i3 2.5G hz, Recommended-Intel Core i5<br/>
 
 * [Mastering Windows Server 2019 [Video]](https://www.packtpub.com/networking-and-servers/mastering-windows-server-2019-video?utm_source=github&utm_medium=repository&utm_campaign=9781789958263)
 
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781786464781">https://packt.link/free-ebook/9781786464781 </a> </p>
